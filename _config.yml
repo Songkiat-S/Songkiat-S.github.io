@@ -27,7 +27,7 @@ author:
   name             : "Songkiat Sumetkijakan"
   pronouns         : # example: "she/her"  
   bio              : "Ajarn Weng (อาจารย์เว้ง)"
-  location         : "Earth"
+  location         : Bangkok, Thailand # "Earth"
   employer         : "Chulalongkorn University"
   uri              : # URL
   email            : "songkiat.weng@chula.ac.th" 
