@@ -6,6 +6,7 @@ excerpt: 'This is a short summary of my paper.'
 date: 2025-06-17
 venue: 'International Journal of Approximate Reasoning'
 paperurl: 'https://doi.org/10.1016/j.ijar.2025.109518'
+preprinturl: '/files/2025-06-17-YanSanSum-JoiningCopulasOfEIDC-preprint.pdf'
 citation: 'N. Yanpaisan, T. Santiwipanont, S. Sumetkijakan (2025). "Joining copulas of extreme implicit dependence copulas." <i>International Journal of Approximate Reasoning</i>. 186, 109518.'
 ---
 
