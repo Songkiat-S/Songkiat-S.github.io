@@ -1,6 +1,7 @@
 ---
 title: "Joining copulas of extreme implicit dependence copulas"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-06-17-Joining-copulas-of-extreme-implicit-dependence-copulas
 excerpt: 'This is a short summary of my paper.'
 date: 2025-06-17
