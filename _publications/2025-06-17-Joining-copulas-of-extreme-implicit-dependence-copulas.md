@@ -1,5 +1,5 @@
 ---
-title: "Joining copulas of extreme implicit dependence copulas"
+title: "Joining Copulas of Extreme Implicit Dependence Copulas"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-17-Joining-copulas-of-extreme-implicit-dependence-copulas
