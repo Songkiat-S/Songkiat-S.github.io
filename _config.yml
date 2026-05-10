@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-TH"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Songkiat Sumetkijakan / Chulalongkorn University"
 title_separator          : "-"
 name                     : &name "Songkiat"
