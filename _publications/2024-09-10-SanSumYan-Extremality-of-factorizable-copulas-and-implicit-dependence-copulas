@@ -2,13 +2,16 @@
 title: "Extremality of Factorizable Copulas and Implicit Dependence Copulas"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-17-Joining-copulas-of-extreme-implicit-dependence-copulas
-excerpt: 'We characterize extreme implicit dependence copulas in terms of the extremality of the joining copulas in the class of subcopulas on a domain involving the invertible copulas.'
-date: 2025-06-17
-venue: 'International Journal of Approximate Reasoning'
-paperurl: 'https://doi.org/10.1016/j.ijar.2025.109518'
-bibtexurl: '/files/2025-06-17-YanSanSum-JoiningCopulasOfEIDC-preprint.pdf'
-citation: 'N. Yanpaisan, T. Santiwipanont, S. Sumetkijakan (2025). "Joining copulas of extreme implicit dependence copulas." <i>International Journal of Approximate Reasoning</i>. 186, 109518.'
+permalink: /publication/2024-09-10-SanSumYan-Extremality-of-factorizable-copulas-and-implicit-dependence-copulas
+excerpt: 'We obtain characterizations of extreme factorizable copulas and prove that implicit dependence copulas whose joining copula is one of the Fréchet-Hoeffding bounds are extreme. This condition, however, is not necessary, which will be shown via some examples of extreme implicit dependence copulas.'
+date: 2024-09-10
+venue: 'Journal of Mathematical Analysis and Applications'
+paperurl: 'https://doi.org/10.1016/j.jmaa.2024.128863'
+bibtexurl: '/files/2024-09-04-SanSumYan-ExtremalityOfFactorizableCopulasAndIDC-preprint.pdf'
+citation: 'T. Santiwipanont, S. Sumetkijakan, N. Yanpaisan, 
+Extremality of factorizable copulas and implicit dependence copulas,
+<i>Journal of Mathematical Analysis and Applications</i>,
+Volume 543, Issue 1, 2025, 128863.'
 ---
 
 Detailed description of the paper goes here. You can write several paragraphs about your findings, add images, or link to code.
