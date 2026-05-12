@@ -1,0 +1,14 @@
+---
+title: "Characterization of Idempotent Copulas"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-09-11-ChaSum-Characterization-of-pre-idempotent-copulas
+excerpt: 'We obtain an explicit characterization of pre-idempotent copulas, which is split into cases according to the atomicity of its associated $\sigma$-algebras, where the nonatomic case gives all factorizable copulas and the totally atomic case yields conjugates of ordinal sums of copies of the product copula.'
+date: 2023-09-11
+venue: 'Dependence Modeling'
+paperurl: 'https://doi.org/10.1515/demo-2023-0106'
+bibtexurl: '/files/2023-09-11-ChaSum-CharacterizationOfPreIdempotentCopulas-preprint.pdf'
+citation: 'W. Chamnan, S. Sumetkijakan, Characterization of Pre-idempotent Copulas, <i>Dependence Modeling</i>, vol. 11, no. 1, 2023, pp. 20230106.'
+---
+
+Detailed description of the paper goes here. You can write several paragraphs about your findings, add images, or link to code.
