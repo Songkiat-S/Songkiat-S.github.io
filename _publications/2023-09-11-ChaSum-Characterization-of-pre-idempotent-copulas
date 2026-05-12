@@ -3,7 +3,7 @@ title: "Characterization of Idempotent Copulas"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-09-11-ChaSum-Characterization-of-pre-idempotent-copulas
-excerpt: 'We obtain an explicit characterization of pre-idempotent copulas, which is split into cases according to the atomicity of its associated $\sigma$-algebras, where the nonatomic case gives all factorizable copulas and the totally atomic case yields conjugates of ordinal sums of copies of the product copula.'
+excerpt: 'We obtain an explicit characterization of pre-idempotent copulas, which is split into cases according to the atomicity of its associated $$\sigma$$-algebras, where the nonatomic case gives all factorizable copulas and the totally atomic case yields conjugates of ordinal sums of copies of the product copula.'
 date: 2023-09-11
 venue: 'Dependence Modeling'
 paperurl: 'https://doi.org/10.1515/demo-2023-0106'
